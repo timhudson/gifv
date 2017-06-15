@@ -1,0 +1,16 @@
+{
+  "name": "gifv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "execa": "^0.7.0",
+    "got": "^7.0.0",
+    "micro": "^7.3.3",
+    "temp-write": "^3.3.0",
+    "tempfile": "^2.0.0"
+  }
+}
